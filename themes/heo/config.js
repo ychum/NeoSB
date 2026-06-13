@@ -20,7 +20,7 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '魔剑家园',
   HEO_HERO_TITLE_2: '奇幻体验',
-  HEO_HERO_TITLE_3: 'BH欢迎你',
+  HEO_HERO_TITLE_3: 'Brothers Honor',
   HEO_HERO_TITLE_4: '新版上线',
   HEO_HERO_TITLE_5: '快来加入！',
   HEO_HERO_TITLE_LINK: 'https://www.shadowbane.online',
