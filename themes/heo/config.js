@@ -8,7 +8,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎魔剑2026', url: 'https://www.shadowbane.online' },
+    { title: '欢迎来魔剑2026站点！', url: 'https://www.shadowbane.online' },
     { title: '快来加入温暖的魔剑BH大家庭！！！', url: '/tag/最新动态' }
   ],
 
@@ -116,9 +116,9 @@ const CONFIG = {
   ],
 
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
-  HEO_SOCIAL_CARD_TITLE_1: '交流频道',
-  HEO_SOCIAL_CARD_TITLE_2: '公会活动随时沟通',
-  HEO_SOCIAL_CARD_TITLE_3: '点击加入我们的yy 1508110360',
+  HEO_SOCIAL_CARD_TITLE_1: '随时交流沟通',
+  HEO_SOCIAL_CARD_TITLE_2: 'yy频道 1508110360',
+  HEO_SOCIAL_CARD_TITLE_3: '点击加入微信群',
   HEO_SOCIAL_CARD_URL: 'https://qrcode.igamer.vip/wechatgrp',
 
   // 底部统计面板文案
