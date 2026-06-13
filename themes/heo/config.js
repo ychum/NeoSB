@@ -8,7 +8,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来魔剑2026站点！', url: 'https://www.shadowbane.online' },
+    { title: '欢迎来到魔剑中文站2026！', url: 'https://www.shadowbane.online' },
     { title: '快来加入温暖的魔剑BH大家庭！！！', url: '/tag/最新动态' }
   ],
 
