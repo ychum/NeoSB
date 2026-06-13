@@ -1,0 +1,74 @@
+/* eslint-disable react/no-unknown-property */
+/**
+ * 此处样式只对当前主题生效
+ * 此处不支持tailwindCSS的 @apply 语法
+ * @returns
+ */
+const Style = () => {
+  return (
+    <style jsx global>{`
+      body {
+        background-color: #1a1a2e;
+        color: #e0e0e0;
+      }
+
+      // 公告栏中的字体固定白色
+      #theme-heo #announcement-content .notion {
+        color: white;
+      }
+
+      ::-webkit-scrollbar-thumb {
+        background: rgba(124, 58, 237, 0.5);
+        border-radius: 8px;
+        cursor: pointer;
+      }
+
+      ::-webkit-scrollbar-thumb:hover {
+        background: rgba(124, 58, 237, 0.7);
+      }
+
+      ::-webkit-scrollbar {
+        width: 8px;
+        height: 8px;
+      }
+
+      #more {
+        white-space: nowrap;
+      }
+
+      .today-card-cover {
+        -webkit-mask-image: linear-gradient(to top, transparent 5%, black 70%);
+        mask-image: linear-gradient(to top, transparent 5%, black 70%);
+      }
+
+      .recent-top-post-group::-webkit-scrollbar {
+        display: none;
+      }
+
+      .scroll-hidden::-webkit-scrollbar {
+        display: none;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      // 标签滚动动画
+      .tags-group-wrapper {
+        animation: rowup 60s linear infinite;
+      }
+
+      @keyframes rowup {
+        0% {
+          transform: translateX(0%);
+        }
+        100% {
+          transform: translateX(-50%);
+        }
+      }
+    `}</style>
+  )
+}
+
+export { Style }
+
