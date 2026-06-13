@@ -117,7 +117,7 @@ const CONFIG = {
 
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
   HEO_SOCIAL_CARD_TITLE_1: '随时交流沟通',
-  HEO_SOCIAL_CARD_TITLE_2: 'yy频道 1508110360',
+  HEO_SOCIAL_CARD_TITLE_2: 'YY频道：1508110360',
   HEO_SOCIAL_CARD_TITLE_3: '点击加入微信群',
   HEO_SOCIAL_CARD_URL: 'https://qrcode.igamer.vip/wechatgrp',
 
