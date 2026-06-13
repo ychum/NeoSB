@@ -9,7 +9,7 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
     { title: '欢迎来到魔剑中文站2026！', url: 'https://www.shadowbane.online' },
-    { title: '快来加入温暖的魔剑BH大家庭！！！', url: '/tag/最新动态' }
+    { title: '快来加入魔剑大家庭！！！', url: '/tag/最新动态' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -18,9 +18,9 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '开心游戏',
-  HEO_HERO_TITLE_2: '相互协助',
-  HEO_HERO_TITLE_3: '魔剑BH大家庭',
+  HEO_HERO_TITLE_1: '魔剑家园',
+  HEO_HERO_TITLE_2: '奇幻体验',
+  HEO_HERO_TITLE_3: 'BH欢迎你',
   HEO_HERO_TITLE_4: '新版上线',
   HEO_HERO_TITLE_5: '快来加入！',
   HEO_HERO_TITLE_LINK: 'https://www.shadowbane.online',
