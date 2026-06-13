@@ -8,7 +8,8 @@ const Style = () => {
   return (
     <style jsx global>{`
       body {
-        background-color: #f7f9fe;
+        background-color: #1a1a2e;
+        color: #e0e0e0;
       }
 
       // 公告栏中的字体固定白色
@@ -17,9 +18,13 @@ const Style = () => {
       }
 
       ::-webkit-scrollbar-thumb {
-        background: rgba(60, 60, 67, 0.4);
+        background: rgba(124, 58, 237, 0.5);
         border-radius: 8px;
         cursor: pointer;
+      }
+
+      ::-webkit-scrollbar-thumb:hover {
+        background: rgba(124, 58, 237, 0.7);
       }
 
       ::-webkit-scrollbar {
