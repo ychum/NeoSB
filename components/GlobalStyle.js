@@ -12,7 +12,9 @@ const GlobalStyle = () => {
   const GLOBAL_CSS = siteConfig('GLOBAL_CSS')
   // 如果这个字符串不为空，则打印显示
   if (GLOBAL_CSS && GLOBAL_CSS.trim() !== '') {
-    // console.log('Inject CSS:', GLOBAL_CSS);
+    console.log('✅ GLOBAL_CSS已加载:', GLOBAL_CSS.substring(0, 100) + '...')
+  } else {
+    console.log('❌ GLOBAL_CSS为空或未配置')
   }
   return (<style jsx global>{`
 
