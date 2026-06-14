@@ -62,6 +62,7 @@ module.exports = {
         'gray-2': '#16213e',
         'gray-7': '#4a4a6a',
         // 覆盖Tailwind核心颜色类（关键修改）
+        // 强制Vercel重新构建 - 重新提交触发新部署
         indigo: {
           400: '#8b5cf6',  // 术士紫
           500: '#7c3aed',  // 魔法紫
