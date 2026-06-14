@@ -29,48 +29,38 @@ module.exports = {
     extend: {
       colors: {
         day: {
-          DEFAULT: BLOG.BACKGROUND_LIGHT || '#1a1a2e'
+          DEFAULT: BLOG.BACKGROUND_LIGHT || '#ffffff'
         },
         night: {
-          DEFAULT: BLOG.BACKGROUND_DARK || '#0f0f1a'
+          DEFAULT: BLOG.BACKGROUND_DARK || '#111827'
         },
         hexo: {
-          'background-gray': '#16213e',
-          'black-gray': '#0a0a14',
-          'light-gray': '#2a2a4a'
+          'background-gray': '#f5f5f5',
+          'black-gray': '#101414',
+          'light-gray': '#e5e5e5'
         },
-        // 魔剑奇幻主题色系
-        'dark-700': '#1a1030b3',
+        // black: '#212b36',
+        'dark-700': '#090e34b3',
         dark: {
-          DEFAULT: '#1a1a2e',
-          2: '#16213e',
-          3: '#1f1f3a',
-          4: '#2a2a4a',
-          5: '#3a3a5a',
-          6: '#4a4a6a',
-          7: '#5a5a7a',
-          8: '#6a6a8a'
+          DEFAULT: '#111928',
+          2: '#1F2A37',
+          3: '#374151',
+          4: '#4B5563',
+          5: '#6B7280',
+          6: '#9CA3AF',
+          7: '#D1D5DB',
+          8: '#E5E7EB'
         },
-        primary: '#7c3aed',
-        'blue-dark': '#5b21b6',
-        secondary: '#dc2626',
-        'body-color': '#9ca3af',
-        'body-secondary': '#a0aec0',
-        warning: '#f59e0b',
-        stroke: '#2a2a4a',
-        'gray-1': '#1a1a2e',
-        'gray-2': '#16213e',
-        'gray-7': '#4a4a6a',
-        // 魔剑专属色彩
-        'shadowbane': {
-          purple: '#7c3aed',
-          red: '#dc2626',
-          gold: '#d4af37',
-          dark: '#0f0f1a',
-          'magic': '#8b5cf6',
-          'blood': '#991b1b',
-          'shadow': '#1a1a2e'
-        }
+        primary: '#3758F9',
+        'blue-dark': '#1B44C8',
+        secondary: '#13C296',
+        'body-color': '#637381',
+        'body-secondary': '#8899A8',
+        warning: '#FBBF24',
+        stroke: '#DFE4EA',
+        'gray-1': '#F9FAFB',
+        'gray-2': '#F3F4F6',
+        'gray-7': '#CED4DA'
       },
       maxWidth: {
         side: '14rem',
