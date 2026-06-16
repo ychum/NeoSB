@@ -60,55 +60,55 @@ const CONFIG = {
     {
       title_1: 'Aelfborn',
       img_1: '/images/heo/Ael.webp',
-      color_1: '#989bf8',
+      color_1: '#1f1f1f',
       title_2: 'Aracoix',
       img_2: '/images/heo/Ara.webp',
-      color_2: '#ffffff'
+      color_2: '#1f1f1f'
     },
     {
       title_1: 'Centaur',
       img_1: '/images/heo/Cen.webp',
-      color_1: '#57b6e6',
+      color_1: '#1f1f1f',
       title_2: 'Dwarf',
       img_2: '/images/heo/Dwa.webp',
-      color_2: '#4082c3'
+      color_2: '#1f1f1f'
     },
     {
       title_1: 'Elf',
       img_1: '/images/heo/Elf.webp',
-      color_1: '#ffffff',
+      color_1: '#1f1f1f',
       title_2: 'Irekei',
       img_2: '/images/heo/Ire.webp',
-      color_2: '#ffffff'
+      color_2: '#1f1f1f'
     },
     {
       title_1: 'Fighter',
       img_1: '/images/heo/Fight.webp',
-      color_1: '#eb6840',
+      color_1: '#1f1f1f',
       title_2: 'Healer',
       img_2: '/images/heo/Heal.webp',
-      color_2: '#8f55ba'
+      color_2: '#1f1f1f'
     },
     {
       title_1: 'Halfgiant',
       img_1: '/images/heo/HGi.webp',
-      color_1: '#f29e39',
+      color_1: '#1f1f1f',
       title_2: 'Human',
       img_2: '/images/heo/Hum.webp',
-      color_2: '#2c51db'
+      color_2: '#1f1f1f'
     },
     {
       title_1: 'Mage',
       img_1: '/images/heo/Mage.webp',
-      color_1: '#f7cb4f',
+      color_1: '#1f1f1f',
       title_2: 'Minotaur',
       img_2: '/images/heo/Min.webp',
-      color_2: '#e9572b'
+      color_2: '#1f1f1f'
     },
     {
       title_1: 'Rogue',
       img_1: '/images/heo/Rogue.webp',
-      color_1: '#df5b40',
+      color_1: '#1f1f1f',
       title_2: 'Shade',
       img_2: '/images/heo/Shade.webp',
       color_2: '#1f1f1f'
