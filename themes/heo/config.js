@@ -23,7 +23,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: 'shadowbane.online',
   HEO_HERO_TITLE_4: '新版上线',
   HEO_HERO_TITLE_5: '快来加入！',
-  HEO_HERO_TITLE_LINK: 'https://www.shadowbane.online',
+  HEO_HERO_TITLE_LINK: 'https://www.shadowbane.online/article/zhaoxin',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
