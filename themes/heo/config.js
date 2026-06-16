@@ -20,7 +20,7 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '魔剑家园',
   HEO_HERO_TITLE_2: '奇幻体验',
-  HEO_HERO_TITLE_3: 'Brothers Honor',
+  HEO_HERO_TITLE_3: 'shadowbane.online',
   HEO_HERO_TITLE_4: '新版上线',
   HEO_HERO_TITLE_5: '快来加入！',
   HEO_HERO_TITLE_LINK: 'https://www.shadowbane.online',
@@ -43,8 +43,8 @@ const CONFIG = {
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
     '你好！这里是',
-    '🔍 团结友爱大家庭',
-    '🏃 脚踏实地行动派'
+    '❤️ 团结友爱大家庭',
+    '💯 脚踏实地行动派'
   ],
 
   // 个人资料底部按钮
