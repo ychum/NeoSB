@@ -28,7 +28,7 @@ module.exports = {
   MUSIC_PLAYER_AUDIO_LIST: [
     // 示例音乐列表。除了以下配置外，还可配置歌词，具体配置项看此文档 https://aplayer.js.org/#/zh-Hans/
     {
-      name: 'Sounds of the N'koth Waste',
+      name: 'Sounds of the Nkoth Waste',
       artist: 'Shadowbane',
       url: 'https://gh-proxy.org/https://raw.githubusercontent.com/ychum/NeoSB/main/public/bgm/03.soundsofthenkothwaste.mp3',
       cover:
