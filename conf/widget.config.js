@@ -32,14 +32,14 @@ module.exports = {
       artist: 'Shadowbane',
       url: 'https://gh-proxy.org/https://raw.githubusercontent.com/ychum/NeoSB/main/public/bgm/03.soundsofthenkothwaste.mp3',
       cover:
-        'https://gh-proxy.org/https://raw.githubusercontent.com/ychum/NeoSB/refs/heads/main/public/images/heo/shadowbanesoundtrack.jpg'
+        ''
     },
     {
       name: 'Shadowbane Theme Song',
       artist: 'Shadowbane',
       url: 'https://gh-proxy.org/https://raw.githubusercontent.com/ychum/NeoSB/main/public/bgm/01.shadowbanetheme.mp3',
       cover:
-        'https://gh-proxy.org/https://raw.githubusercontent.com/ychum/NeoSB/refs/heads/main/public/images/heo/shadowbanesoundtrack.jpg'
+        ''
     }
   ],
   MUSIC_PLAYER_METING: process.env.NEXT_PUBLIC_MUSIC_PLAYER_METING || false, // 是否要开启 MetingJS，从平台获取歌单。会覆盖自定义的 MUSIC_PLAYER_AUDIO_LIST，更多配置信息：https://github.com/metowolf/MetingJS
